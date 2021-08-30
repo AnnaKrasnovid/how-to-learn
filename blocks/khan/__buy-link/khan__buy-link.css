@@ -6,8 +6,7 @@
   opacity: 1;
   transition: opacity ease;
 }
-  
+
 .khan__buy-link:hover {
   opacity: 0.75;
 }
-  

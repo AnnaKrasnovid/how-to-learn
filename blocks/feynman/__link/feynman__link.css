@@ -4,13 +4,12 @@
   color: #2f80ed;
   position: absolute;
   top: 50%;
-  right: 48px; 
+  right: 48px;
   text-decoration: none;
   opacity: 1;
   transition: opacity ease;
 }
-   
+
 .feynman__link:hover {
   opacity: 0.75;
 }
-   

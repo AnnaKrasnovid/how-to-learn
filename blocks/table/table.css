@@ -1,7 +1,7 @@
 .table {
-  display: flex; 
+  display: flex;
   flex-wrap: wrap;
   width: 1100px;
   justify-content: space-between;
-  margin: auto;     
+  margin: auto;
 }
