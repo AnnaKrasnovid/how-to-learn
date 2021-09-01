@@ -3,9 +3,5 @@
   color: #ffffff;
   text-decoration: none;
   opacity: 1;
-  transition: opacity ease;
 }
 
-.footer__column-link:hover {
-  opacity: 0.75;
-}
